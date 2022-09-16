@@ -1,17 +1,8 @@
-### [Foobar](https://foobar.com)
+### [AutoAO3App](https://autoao3app.firebaseapp.com)
 
-#### Install using Git
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+#### Install With Stylus
 
-    git clone https://github.com/dracula/foobar.git
+1. Install the Stylus extension for [Firefox](https://addons.mozilla.org/firefox/addon/styl-us/) or [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) (and other Chromium browsers).
 
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this
-2. Then that
-3. Boom! It's working
+2. [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://github.com/enigmalea/Dracula-For-AutoAO3App/raw/main/autoao3dracula.user.css)
