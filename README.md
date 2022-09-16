@@ -2,7 +2,14 @@
 
 > A dark theme for [AutoAO3App](https://autoao3app.firebaseapp.com).
 
-![Screenshot](./screenshot.png)
+<p align="center">
+  <img src="../assets/homescreenshot.png?raw=true" width="256">
+  <img src="../assets/bookmarksscreenshot.png?raw=true" width="256">
+  <img src="../assets/groupedscreenshot.png?raw=true" width="256">
+  <img src="../assets/tagset1screenshot.png?raw=true" width="256">
+  <img src="../assets/tagset2screenshot.png?raw=true" width="256">
+  <img src="../assets/usersscreenshot.png?raw=true" width="256">
+</p>
 
 ## Install
 
