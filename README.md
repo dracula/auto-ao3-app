@@ -5,11 +5,11 @@
 | | SCREENSHOTS | |
 | - | ----------- | - |
 | Home | Grouped Requests | Search All Requests | 
-| <img src="screenshots/homescreenshot.png" width="256"> | <img src="screenshots/groupedscreenshot.png" width="256"> | <img src="screenshots/searchscreenshot.png" width="256"> |
+| <img src="screenshots/homescreenshot.png?raw=true" width="256"> | <img src="screenshots/groupedscreenshot.png?raw=true" width="256"> | <img src="screenshots/searchscreenshot.png?raw=true" width="256"> |
 | Tag Set View (Collapsed) | Tag Set View (Expanded) |  Bookmarks |
-| <img src="screenshots/tagset1screenshot.png" width="256"> | <img src="screenshots/tagset2screenshot.png" width="256"> | <img src="screenshots/bookmarksscreenshot.png" width="256"> |
+| <img src="screenshots/tagset1screenshot.png?raw=true" width="256"> | <img src="screenshots/tagset2screenshot.png?raw=true" width="256"> | <img src="screenshots/bookmarksscreenshot.png?raw=true" width="256"> |
 | User Search |
-| <img src="screenshots/userscreenshot.png" width="256"> |
+| <img src="screenshots/userscreenshot.png?raw=true" width="256"> |
 
 
 ## Install
@@ -20,7 +20,7 @@ All instructions can be found at [draculatheme.com/autoao3app](https://draculath
 
 This theme is maintained by the following person.
 
-| [![enigmalea](https://github.com/enigmalea.png?size=100)](https://github.com/enigmalea) |
+| [![enigmalea](https://github.com/enigmalea.png?raw=true?size=100)](https://github.com/enigmalea) |
 | ---------------------------------------------------------------------------------------- |
 | [enigmalea](https://github.com/enigmalea)                                               |
 
