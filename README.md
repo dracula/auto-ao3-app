@@ -4,12 +4,12 @@
 
 | | SCREENSHOTS | |
 | - | ----------- | - |
-| Home | Grouped Requests | Search All Requests |
-| <img src="../assets/homescreenshot.png?raw=true" width="256"> | <img src="../assets/groupedscreenshot.png?raw=true" width="256"> | <img src="../assets/searchscreenshot.png?raw=true" width="256"> |
+| Home | Grouped Requests | Search All Requests | 
+| <img src="screenshots/homescreenshot.png" width="256"> | <img src="screenshots/groupedscreenshot.png" width="256"> | <img src="screenshots/searchscreenshot.png" width="256"> |
 | Tag Set View (Collapsed) | Tag Set View (Expanded) |  Bookmarks |
-| <img src="../assets/tagset1screenshot.png?raw=true" width="256"> | <img src="../assets/tagset2screenshot.png?raw=true" width="256"> | <img src="../assets/bookmarksscreenshot.png?raw=true" width="256"> |
+| <img src="screenshots/tagset1screenshot.png" width="256"> | <img src="screenshots/tagset2screenshot.png" width="256"> | <img src="screenshots/bookmarksscreenshot.png" width="256"> |
 | User Search |
-| <img src="../assets/userscreenshot.png?raw=true" width="256"> |
+| <img src="screenshots/userscreenshot.png" width="256"> |
 
 
 ## Install
