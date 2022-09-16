@@ -2,14 +2,15 @@
 
 > A dark theme for [AutoAO3App](https://autoao3app.firebaseapp.com).
 
-<p align="center">
-  <img src="../assets/homescreenshot.png?raw=true" width="256">
-  <img src="../assets/bookmarksscreenshot.png?raw=true" width="256">
-  <img src="../assets/groupedscreenshot.png?raw=true" width="256">
-  <img src="../assets/tagset1screenshot.png?raw=true" width="256">
-  <img src="../assets/tagset2screenshot.png?raw=true" width="256">
-  <img src="../assets/usersscreenshot.png?raw=true" width="256">
-</p>
+| | SCREENSHOTS | |
+| - | ----------- | - |
+| Home | Grouped | Search All |
+| <img src="../assets/homescreenshot.png?raw=true" width="256"> | <img src="../assets/groupedscreenshot.png?raw=true" width="256"> | <img src="../assets/searchscreenshot.png?raw=true" width="256"> |
+| Tag Set 1 | Tag Set 2 |  Bookmarks |
+| <img src="../assets/tagset1screenshot.png?raw=true" width="256"> | <img src="../assets/tagset2screenshot.png?raw=true" width="256"> | <img src="../assets/bookmarksscreenshot.png?raw=true" width="256"> |
+| User |
+| <img src="../assets/userscreenshot.png?raw=true" width="256"> |
+
 
 ## Install
 
