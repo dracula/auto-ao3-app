@@ -20,7 +20,7 @@ All instructions can be found at [draculatheme.com/autoao3app](https://draculath
 
 This theme is maintained by the following person.
 
-| [![enigmalea](https://github.com/enigmalea.png?raw=true?size=100)](https://github.com/enigmalea) |
+| [![enigmalea](https://github.com/enigmalea.png?size=100)](https://github.com/enigmalea) |
 | ---------------------------------------------------------------------------------------- |
 | [enigmalea](https://github.com/enigmalea)                                               |
 
