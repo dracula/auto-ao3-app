@@ -2,19 +2,12 @@
 
 > A dark theme for [AutoAO3App](https://autoao3app.firebaseapp.com).
 
-| | SCREENSHOTS | |
-| - | ----------- | - |
-| Home | Grouped Requests | Search All Requests | 
-| <img src="screenshots/homescreenshot.png?raw=true" width="256"> | <img src="screenshots/groupedscreenshot.png?raw=true" width="256"> | <img src="screenshots/searchscreenshot.png?raw=true" width="256"> |
-| Tag Set View (Collapsed) | Tag Set View (Expanded) |  Bookmarks |
-| <img src="screenshots/tagset1screenshot.png?raw=true" width="256"> | <img src="screenshots/tagset2screenshot.png?raw=true" width="256"> | <img src="screenshots/bookmarksscreenshot.png?raw=true" width="256"> |
-| User Search |
-| <img src="screenshots/userscreenshot.png?raw=true" width="256"> |
+![Screenshot](./screenshot.png)
 
 
 ## Install
 
-All instructions can be found at [draculatheme.com/autoao3app](https://draculatheme.com/autoao3app).
+All instructions can be found at [draculatheme.com/auto-ao3-app](https://draculatheme.com/auto-ao3-app).
 
 ## Team
 
