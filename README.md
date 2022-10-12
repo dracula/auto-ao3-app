@@ -4,7 +4,6 @@
 
 ![Screenshot](./screenshot.png)
 
-
 ## Install
 
 All instructions can be found at [draculatheme.com/auto-ao3-app](https://draculatheme.com/auto-ao3-app).
@@ -14,7 +13,7 @@ All instructions can be found at [draculatheme.com/auto-ao3-app](https://dracula
 This theme is maintained by the following person.
 
 | [![enigmalea](https://github.com/enigmalea.png?size=100)](https://github.com/enigmalea) |
-| ---------------------------------------------------------------------------------------- |
+| --------------------------------------------------------------------------------------- |
 | [enigmalea](https://github.com/enigmalea)                                               |
 
 ## Community
