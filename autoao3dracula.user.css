@@ -10,7 +10,7 @@
 @license        MIT
 ==/UserStyle== */
 
-@-moz-document domain("autoao3app.firebaseapp.com") {
+@-moz-document domain("autoao3app.firebaseapp.com", "autoao3app.fandom.tools") {
 	:root {
 		--background: #282a36;
 		--selection: #44475a;
